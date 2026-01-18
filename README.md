@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KlintCleveland
+- 👋 Hi, I’m @KlintCleveland -
 - 👀 I’m interested in everthing Montana, Broadway musicals, All kinds of music, My family, helping business grow, customizing autocad with LISP and VBA
 - 🌱 I’m currently learning Autodesk Fusion 360,
 - 💞️ I’m looking to collaborate on ...
